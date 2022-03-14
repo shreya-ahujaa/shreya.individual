@@ -21,3 +21,20 @@ _Talk about dopamine issues above. Real? Parent conspiracy? Anything that is imp
 I think that the dopamine issues above are real and are a thing that should be acknowledged more in our world. Dopamine is the chemical that allows us to feel pleasure, and it is easy to get addicted to this feeling of pleasure, causing us to do things more and more. For example, people become addicted to video games when they want the feeling of winning. People may also become obsessed with the amount of likes or comments they get on their social media posts as they like the feeling of being liked. Personally, I think one slight problem is scrolling on my phone on social media, as sometimes it helps me forget about my work for some time. It is not a big problem right now, but the dopamine of scrolling may become an addiction for some people.  
 
 ## _**5.2 TPT Questions**_
+
+_How does someone empower themself in a digital world?_
+
+People can empower themselves in a digital world by increasing their knowledge with the information they can find on the internet. Students can look up more information on topics that they do not know, allowing them to increase their span and knowledge of new topics. In the digital world, people can be empowered by their own knowledge and also by the new knowledge they may gain with the internet. They can build programs, and cool websites to support groups that need it, or spread awareness after consulting sources.
+
+<br>
+
+_How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte High School_
+
+Someone that is empowered can help someone that is not empowered by building and creating different things that will help others empower themselves. For example, they can build websites that will help others gain and increase their knowledge. We can also empower others by helping people who may not have direct and easy access to digital spaces like the internet. At Del Norte, we are very privileged and could use this to help others. For example, to decrease the digital divide we can try to spread and donate old computers to places that need it. We can also create free and accessible programs and websites without knowledge like we are doing now that will help other people feel empowered. 
+
+<br>
+
+_Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?_
+
+I think that red tape, or rules and regulations, can definitely be a barrier to decreasing the digital divide. For example, at Del Norte, there are websites that are blocked off because the district believes it may be bad, even though it might benefit our education further. Some examples of these are educational videos, and even our own deployed websites. Even though I understand the reason for having these restrictions, the actions decrease the amount of freedom we have in our technology, and are therefore blocking digital empowerment in a way.
+
