@@ -4,4 +4,4 @@
 Here is a link to my replit, where the TPT challenges and other coding features will be found :)
 
 
-[Replit Python Link](https://replit.com/@ShreyaAhuja/individual#.replit)
+<iframe src="https://shreya-ahujaa.github.io/shreya.individual/index" title="Replit"></iframe>
