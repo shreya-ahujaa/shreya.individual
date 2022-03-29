@@ -12,7 +12,7 @@ def factors():
 factors_of = factors() 
 def test_data():
   factors(20)
-  factors(320)
+  factors(factors(256))
   
 def factor_input():
   while True:
