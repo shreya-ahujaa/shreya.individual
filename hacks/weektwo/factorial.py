@@ -1,3 +1,4 @@
+import random
 
 class factorial:
     def __init__(number):
@@ -33,4 +34,4 @@ def factorial_tester():
 
 
 if __name__ == "__main__":
-   factorial_tester()
+   factorial_tester(random.randint(0,100))
