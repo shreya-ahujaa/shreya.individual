@@ -13,7 +13,7 @@ def fib_input():
       n >= 0 
       if n < 0: 
         print("Sorry, Fibonacci Sequence does not exist for negative numbers!")
-    except:
+    if str(type(n)) != "str":
         print("You have entered something different than an integer. Please enter an integer!") 
     else:
         def fibonacci(n): #
