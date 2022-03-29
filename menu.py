@@ -107,6 +107,7 @@ def buildMenu(banner, options):
     except ValueError:
         # not a number error
         print(f"Not a number: {choice}")
+        print(type(choice))
     except UnboundLocalError:
         # traps all other errors
         print(f"Invalid choice: {choice}")
