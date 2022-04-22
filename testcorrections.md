@@ -35,4 +35,30 @@ I chose the answer of 80 seconds but the right and correct answer should have 80
 
 
 ## Finals Quiz #2 Corrections
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/164801467-2f8a3fbc-15da-4b3d-8b26-44c5dbc6e414.png">
 
+Using this solution, all four processes will finish executing in 95 seconds. Processes W and X will finish executing in 50 seconds on one processor, and processes Y and Z will finish executing in 95 seconds on the other processor. You have to add the processor times and find the combination of programs that will allow for the time to be the least as possible. In this case, the W and Z and the X and Y should be paired together as it would take about 75 seconds instead, making it much faster.
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/164802804-6414d436-9c23-4524-aef4-8372e597a527.png">
+
+IPv6 addresses are longer than IPv4 addresses. The length of the address has no direct effect on routing speed. IPv6 allows for a greater number of IP addresses than IPv4 does, which allows more devices to be connected. This is something that I just have to know, but even though I didn't know it then, I know it now and will get the question correct the next time.
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/164803166-25642b7f-d9c2-42dd-8c95-a9b5ae930edb.png">
+
+In the code segment that I chose, the robot ends in the lower-right corner of the grid, facing toward the top of the grid. In this code segment, count is 0 in the first iteration of the outer loop, so the robot rotates left, but does not move forward, causing it to end in the wrong place. The correct code segement causes the robot to move 1 square forward, then rotate left, then move 2 squares forward, then rotate left, then move 3 squares forward, then rotate left, then move 4 squares forward, then rotate left. The robot ends in the lower-right corner of the grid, facing toward the top of the grid, which is where it should be.
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/164803240-00caf0f2-0547-4148-a55f-e6869329cd73.png">
+
+The answe I chose would not be correcrt because the information needed to be found cannot be determined with spreadsheets II and III because students with grade point averages of 3.5 or less cannot be identified. The desired information can be determined by using the student IDs in spreadsheet II to identify the students who play a sport. Once the students who play a sport are identified, the grade point averages of students who play sports in spreadsheet I can be compared to the grade point averages of all other students for the result that is needed.
