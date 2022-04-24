@@ -3,7 +3,7 @@
 # Test Corrections
 
 
-## Finals Quiz #1 Corrections
+## Finals Quiz #1: 46/50 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/164342436-6cbf35aa-2401-49ce-9a83-ee350b57bc1d.png">
 
 The first step is to convert the hexadecimal to a decimal value. You can do this by having the formula (16^0)(6) + (16^1)(5) = 86. On the ASCII table, the 86 corresponds with the letter V, making the answer to be V. I forgot how to convert the hexadecimal to a decimal while taking the test, so I was not able to do the question, but I understand it now and will be able to do it next time.
@@ -25,7 +25,7 @@ ___
 I chose the answer of 80 seconds but the right and correct answer should have 80 seconds. With parallel computing, the time it takes to complete the tasks can be combined, and so when combining the two largest amounts would be the 50 and 60 seconds. When running together, the process will finish in 60 seconds, and then in the 10 seconds after one of them is completed the other 30 seconds can start running, making it 20 seconds added to the 60 seconds, making it 80 seconds total time.
 
 
-## Finals Quiz #2 Corrections
+## Finals Quiz #2: 46/50
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/164801467-2f8a3fbc-15da-4b3d-8b26-44c5dbc6e414.png">
 
 Using this solution, all four processes will finish executing in 95 seconds. Processes W and X will finish executing in 50 seconds on one processor, and processes Y and Z will finish executing in 95 seconds on the other processor. You have to add the processor times and find the combination of programs that will allow for the time to be the least as possible. In this case, the W and Z and the X and Y should be paired together as it would take about 75 seconds instead, making it much faster.
