@@ -12,5 +12,5 @@ On my Jekyll Pages, there will be the requirements for each week, which can be f
 | Week One | [Review Ticket](https://github.com/shreya-ahujaa/shreya.individual/issues/2) |
 | Week Three | [Review Ticket](https://github.com/shreya-ahujaa/shreya.individual/issues/3) |
 | Week Four | [Review Ticket](https://github.com/shreya-ahujaa/shreya.individual/issues/5) |
-| Week Four | [Review Ticket](https://github.com/shreya-ahujaa/shreya.individual/issues/5) |
-| Week Four | [Review Ticket](https://github.com/VidhiKulkarni/teamlace/issues/31) |
+| Week Five | [Review Ticket](https://github.com/shreya-ahujaa/shreya.individual/issues/6) |
+
