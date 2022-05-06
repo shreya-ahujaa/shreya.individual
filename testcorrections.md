@@ -124,3 +124,61 @@ The program segement I chose incorrectly sets the value of bonus to the score wh
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/166296149-204324c3-4544-4906-81a2-e541b504718e.png">
 
 The answer I chose is wrong as I did not follow the steps correctly and ended with the wrong values in the spots of first and second. The variable first is initially assigned the value 100 and the variable second is assigned the value 200. Temp is then assigned the value of first, which is 100. Next, second is assigned the value of temp, which is 100. After that first is assigned the value of second, which is 100. After execution, both first and second have the value 100.
+
+## Finals Quiz #5: 43/50
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/167218555-be2d75b2-05c6-40b5-bcec-a40d7030b25b.png">
+
+For the solution I chose, the values of the procedure repeatedly adds -2 to result five times, resulting in the intended product -10. For one of the right answers, y is initially negative, and the loop condition count ≥ y is initially true, so the body of the loop is never executed and 0 is returned. Also for the other correct answer, since y is initially negative, the loop condition count ≥ y is initially true, so the body of the loop is never executed and 0 is returned.
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/167218946-243bd8c5-98a3-4c4f-8d7f-ca0926ff7ac7.png">
+
+Program I correctly moves the robot to the gray square by repeatedly moving the robot forward, rotating left, moving forward, and rotating right. Program II correctly moves the robot to the gray square by moving the robot forward to the upper-right corner of the grid, rotating left, and moving forward to the upper-left corner of the grid. I had said that only Program II moves the robot there correctly, but Program I also moves the robot to the square.
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/167219115-41e29daf-e8dd-4441-8398-bd5cf989b7e9.png">
+
+The option for the answers that I chose is wrong because while the two programs initialize i to different values, the same values are printed inside the loop because program A prints i and then increments it and program B increments i and then prints it. The correct answer is that A and B display identical values in the same order. I understand what I did wrong and will be able to solve the problem during the test.
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/167220959-446519b8-066a-4e29-94e9-e23f9ee0aefa.png">
+
+The answer that Version II takes one more miunute than Verion I is wrong because Version I calls GetPrediction once for each element of idList, while version II calls GetPrediction twice for each element of idList (plus one more time at the end). Therefore, version II takes more than 1 minute longer than version I.  The correct answer is that Version II requires approximately 5 more minutes to execute than version I.
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/167221150-fb2fc94a-f158-46d1-aed1-9a482810738d.png">
+
+Running process P on one processor and processes Q, R, and S on the other processor is the wrong answer because Incorrect. Running process P on one processor will take a total of 30 seconds. Running processes Q, R, and S on the other processor will take a total of 45 seconds. With the processors running in parallel, this solution will take 45 second. The answer should take 40 seconds, which would be running processes P and Q on one processor and processes R and S on the other processor.
+
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/167221285-ce00d16b-77b5-4a90-bb82-350229940a04.png">
+
+The Internet was not designed to be completely secure. Encryption is not required for communications. The correct answer is that the internet is designed to support an increasing number of users and is able to do this using open protocols to easily connect additional computing devices to the network. 
+
+<br>
+<br>
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/167221417-62559678-a3ab-4e97-bcf4-906780bc085e.png">
+
+When the value of exam is 70 and the value of presentation is 80, the value of grade at the end of the code segment will be "B". To make the grade C, the  value of exam is 80 and the value of presentation is 60 to make this true. 
+
+
+
