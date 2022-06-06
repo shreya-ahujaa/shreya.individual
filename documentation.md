@@ -1,4 +1,8 @@
-# N@tM Pictures
+{% include navigation.html %}
+
+# Documentation
+
+## N@tM Pictures
 This shows us presenting to the other individuals who were interested in our project. Also, there is documentation of us going to see other people's projects.
 <br>
 <br>
@@ -7,7 +11,7 @@ This shows us presenting to the other individuals who were interested in our pro
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/89224064/172253874-62e2f794-fc80-440b-b12b-9d9cea17ef39.png">
 
  
-# Indiviudal Requirements 
+## Indiviudal Requirements 
 - [x] To-Do List
 - [x] Discussion Board/Forum
 - [x] [Club Members Page](https://github.com/VidhiKulkarni/teamlace/blob/main/templates/contact.html)
@@ -19,7 +23,7 @@ This shows us presenting to the other individuals who were interested in our pro
  <img width="1353" alt="image" src="https://user-images.githubusercontent.com/89224064/172253450-372158a8-d0c6-4ea7-9410-e59cd5befff1.png">
 <img width="1437" alt="image" src="https://user-images.githubusercontent.com/89224064/172253514-5ad27a38-4bc5-45e2-8ba9-c2e7b97a4a85.png">
 
-# Group Requirements 
+## Group Requirements 
 ### Initial Requirements
 - Home Page - Image Carousel, basic description of club ✓
 - About Page - Greater in-depth explanation of club and what they do ✓
